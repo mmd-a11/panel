@@ -3,7 +3,7 @@
     "licence": "UNLIMITED_USER",
     "expire": "2027/03/02",
     "max_devices": "all",
-    "allowed_devices": []
+    "allowed_devices": [00a2407b125cff96]
   },
   {
     "licence": "RAiDER",
