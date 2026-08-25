@@ -1,10 +1,10 @@
 
 [
   {
-    "licence": "SILVER",
+    "licence": "",
     "expire": "2027/03/02",
     "max_devices": "all",
-    "allowed_devices": [2cc1a7bf9e02c656]
+    "allowed_devices": []
   },
   {
     "licence": "AMIR",
@@ -15,7 +15,7 @@
   {
     "licence": "FAMILY_3_USER",
     "expire": "2027/03/02",
-    "max_devices": "3",
-    "allowed_devices": ["2cc1a7bf9e02c656", "7a1b90c34e567812"]
+    "max_devices": "1",
+    "allowed_devices":  ["2cc1a7bf9e02c656"]
   }
 ]
