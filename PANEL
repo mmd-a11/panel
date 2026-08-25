@@ -1,12 +1,13 @@
 
+[
   {
-    "licence": "yy",
+    "licence": "SILVER",
     "expire": "2027/03/02",
     "max_devices": "all",
     "allowed_devices": [2cc1a7bf9e02c656]
   },
   {
-    "licence": "",
+    "licence": "AMIR",
     "expire": "2027/03/02",
     "max_devices": "1",
     "allowed_devices": ["00a2407b125cff96"]
@@ -16,11 +17,5 @@
     "expire": "2027/03/02",
     "max_devices": "3",
     "allowed_devices": ["8f2a1b90c34e5678", "7a1b90c34e567812"]
-  },
-{
-    "licence": "ALI",
-    "expire": "2027/03/02",
-    "max_devices": "1",
-    "allowed_devices": ["00a2407b125cff96"]
-  },
+  }
 ]
