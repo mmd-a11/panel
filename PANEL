@@ -16,6 +16,6 @@
     "licence": "FAMILY_3_USER",
     "expire": "2027/03/02",
     "max_devices": "3",
-    "allowed_devices": ["8f2a1b90c34e5678", "7a1b90c34e567812"]
+    "allowed_devices": ["2cc1a7bf9e02c656", "7a1b90c34e567812"]
   }
 ]
